@@ -6,7 +6,7 @@ _Demo Day_
  
   
   
-**Alumno:** Vidal Durazo   |  **Experto:** Andrés
+**Alumno:** Vidal Durazo   |  **Experto:** Andrés Ramírez
 
 
 [[`Base de datos`](https://github.com/vidaldurazo/DemoDayVidal/tree/main/Bases%20de%20Datos)] [[`Entregables`](https://github.com/vidaldurazo/DemoDayVidal/tree/main/Entregables)] 
